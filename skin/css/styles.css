@@ -1,0 +1,81 @@
+#totalbrooks{
+	width:60%;
+	height:65%;
+	margin-left:20%;
+	margin-top:1%;
+}
+.HeaderC{
+	background:#000066;
+	color:#009999;
+	font-family:'Monotype Corsiva';
+}
+
+.MainContentC{
+	background:#282828;
+	color:#A8A8A8;
+	//background:#82CEF2;
+	font-family:'lucida console';
+	height:65%;
+}
+
+.FooterC{
+	background:#009999;
+	color:#000066;
+	font-family:'Monotype Corsiva';
+}
+
+.inputLabelClass{
+	float:right;
+}
+
+.inputTDClass{
+	//float:right;
+}
+
+.inputElementClass{
+	// background:#A8A8A8;
+	background:#535556;
+	color:#D5DDE2;
+	//color:#282828;
+	//background:#A7C5EF;
+	font-family:'verdana';
+	font-size:13px;
+	width:65%;
+	border-radius:3px;
+}
+
+.textAreaClass{
+	background:#535556;
+	color:#D5DDE2;
+	//background:#A7C5EF;
+	font-family:'verdana';
+	font-size:13px;
+	width:65%;
+	border-radius:3px;
+	overflow:auto;
+	resize:none;
+}
+
+.succResult{
+	// color:#609645;
+	color:#85BF89;
+	font-size:8px;
+}
+
+.failResult{
+	// color:#CE373C;
+	color:#DB938E;
+	font-size:8px;
+}
+
+.button {
+	background-color:#1888e7;
+	height:23px;width:100px;
+	border:none;
+	cursor:pointer;
+	padding-bottom:4px;
+	border-radius:3px;
+	/*margin-left:175px;
+	border-size:0px;
+	horizontal-size:0px;*/
+}
